@@ -13,4 +13,5 @@ public class Koala {
    private Double sleepHour;
    private Double weight;
    private String gender;
+
 }
